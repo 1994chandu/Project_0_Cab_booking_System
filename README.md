@@ -8,6 +8,7 @@ JDBC - version 4.3
 MySQL - version 8.0
 Log 4j - version 1.2.17
 JUnit - version 4
+
 List of features ready and TODOs for future development
 
 Awesome feature 1
